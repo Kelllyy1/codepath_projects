@@ -4,7 +4,7 @@
 ## Project 4 - [provenance guard](https://github.com/Kelllyy1/ai201-project4-provenance-guard.git)
 ## Project 5 - [mixtape starter](https://github.com/Kelllyy1/ai201-project5-mixtape-starter)
 ## Project 6 - [cinelog](https://github.com/Kelllyy1/ai201-project6-cinelog-starter.git)
-## Project 7 -
-## Project 8 -
-## Project 9 - 
-## Project 10 -
+## Project 7 - [pathreview](https://github.com/Kelllyy1/pathreview.git)
+## Project 8 - `coming soon`
+## Project 9 - `coming soon`
+## Project 10 - `coming soon`
