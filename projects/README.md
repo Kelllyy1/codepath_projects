@@ -1,5 +1,5 @@
 ## Project 1 - 
-## Project 2
+## Project 2 - [plant advisor](https://github.com/Kelllyy1/ai201-lab2-plantadvisor-starter.git
 ## Project 3 - 
 ## Project 4 - [provenance guard](https://github.com/Kelllyy1/ai201-project4-provenance-guard.git)
 ## Project 5 - [mixtape starter](https://github.com/Kelllyy1/ai201-project5-mixtape-starter)
