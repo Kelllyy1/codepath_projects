@@ -1,6 +1,6 @@
 ## Project 1 - 
-## Project 2 - [plant advisor](https://github.com/Kelllyy1/ai201-lab2-plantadvisor-starter.git
-## Project 3 - 
+## Project 2 - [plant advisor](https://github.com/Kelllyy1/ai201-lab2-plantadvisor-starter.git)
+## Project 3 - [model fine tuning](https://github.com/Kelllyy1/codepath-ai201-project-3.git)
 ## Project 4 - [provenance guard](https://github.com/Kelllyy1/ai201-project4-provenance-guard.git)
 ## Project 5 - [mixtape starter](https://github.com/Kelllyy1/ai201-project5-mixtape-starter)
 ## Project 6 - [cinelog](https://github.com/Kelllyy1/ai201-project6-cinelog-starter.git)
