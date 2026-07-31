@@ -5,6 +5,5 @@
 ## Project 5 - [mixtape starter](https://github.com/Kelllyy1/ai201-project5-mixtape-starter)
 ## Project 6 - [cinelog](https://github.com/Kelllyy1/ai201-project6-cinelog-starter.git)
 ## Project 7 - [pathreview](https://github.com/Kelllyy1/pathreview.git)
-## Project 8 - `coming soon`
-## Project 9 - `coming soon`
+## Project 8-9 - [Opening a PR with Pathreview](https://github.com/Kelllyy1/pathreview/blob/fix/154-health-check-raw-sql/JOURNAL.md)
 ## Project 10 - `coming soon`
