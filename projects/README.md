@@ -4,6 +4,6 @@
 ## Project 4 - [provenance guard](https://github.com/Kelllyy1/ai201-project4-provenance-guard.git)
 ## Project 5 - [mixtape starter](https://github.com/Kelllyy1/ai201-project5-mixtape-starter)
 ## Project 6 - [cinelog](https://github.com/Kelllyy1/ai201-project6-cinelog-starter.git)
-## Project 7 - [pathreview](https://github.com/Kelllyy1/pathreview.git)
+## Project 7 - [pathreview](https://github.com/Kelllyy1/pathreview/blob/85832bda5c9160007851eae0670ef2b820011302/JOURNAL.md)
 ## Project 8-9 - [Opening a PR with Pathreview](https://github.com/Kelllyy1/pathreview/blob/fix/154-health-check-raw-sql/JOURNAL.md)
 ## Project 10 - `coming soon`
